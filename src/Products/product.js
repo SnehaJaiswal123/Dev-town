@@ -1,0 +1,106 @@
+const product=[
+    {
+        img:"https://m.media-amazon.com/images/I/51P7dQWTlSL._SY879_.jpg",
+        price:200,
+        title:"xyz",
+        description:"abc",
+        category:['bag','College bag']
+    },
+    {
+        img:'https://m.media-amazon.com/images/I/71iesyTiJ7L._SY695_.jpg',
+        price:200,
+        title:"xyz",
+        description:"abc",
+        category:'fashion'
+    },
+    {
+        img:'https://m.media-amazon.com/images/I/61ZrPtiuqSL._AC_UL480_FMwebp_QL65_.jpg',
+        price:200,
+        title:"xyz",
+        description:"abc",
+        category:'electronics'
+    },
+    {
+        img:'https://m.media-amazon.com/images/I/61YVUOHcrqL._AC_UL480_FMwebp_QL65_.jpg',
+        price:200,
+        title:"xyz",
+        description:"abc",
+        category:'electronics'
+    },
+    {
+      img:"https://m.media-amazon.com/images/I/61TapeOXotL._AC_UL480_FMwebp_QL65_.jpg",
+      price:200,
+      title:"xyz",
+      description:"abc",
+      category:'electronics'
+  },
+  {
+      img:'https://m.media-amazon.com/images/I/717neFpwtqL._AC_UL480_FMwebp_QL65_.jpg',
+      price:200,
+      title:"xyz",
+      description:"abc",
+      category:['notebook','copy','notepad']
+  },
+  {
+      img:'Images/doc.png',
+      price:200,
+      title:"xyz",
+      description:"abc"
+  },
+  {
+      img:'Images/doc.png',
+      price:200,
+      title:"xyz",
+      description:"abc"
+  },
+  {
+    img:"Images/doc.png",
+    price:200,
+    title:"xyz",
+    description:"abc"
+},
+{
+    img:'Images/doc.png',
+    price:200,
+    title:"xyz",
+    description:"abc"
+},
+{
+    img:'Images/doc.png',
+    price:200,
+    title:"xyz",
+    description:"abc"
+},
+{
+    img:'Images/doc.png',
+    price:200,
+    title:"xyz",
+    description:"abc"
+},
+{
+  img:"Images/doc.png",
+  price:200,
+  title:"xyz",
+  description:"abc"
+},
+{
+  img:'Images/doc.png',
+  price:200,
+  title:"xyz",
+  description:"abc"
+},
+{
+  img:'Images/doc.png',
+  price:200,
+  title:"xyz",
+  description:"abc"
+},
+{
+  img:'Images/doc.png',
+  price:200,
+  title:"xyz",
+  description:"abc"
+}
+  ]
+
+  export default product;
