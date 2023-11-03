@@ -1,63 +1,80 @@
 const product=[
     {
-        img:"https://m.media-amazon.com/images/I/51P7dQWTlSL._SY879_.jpg",
+        img:"https://m.media-amazon.com/images/I/8139T8YbdkL._AC_UL480_FMwebp_QL65_.jpg",
         price:200,
         title:"xyz",
         description:"abc",
-        category:['bag','College bag']
+        category:'home'
     },
     {
-        img:'https://m.media-amazon.com/images/I/71iesyTiJ7L._SY695_.jpg',
+        img:'https://m.media-amazon.com/images/I/712frk4EL7L._AC_UL480_FMwebp_QL65_.jpg',
         price:200,
         title:"xyz",
         description:"abc",
-        category:'fashion'
+        category:'home'
     },
     {
-        img:'https://m.media-amazon.com/images/I/61ZrPtiuqSL._AC_UL480_FMwebp_QL65_.jpg',
+        img:'https://m.media-amazon.com/images/I/71c3zExfUaL._AC_UL480_FMwebp_QL65_.jpg',
         price:200,
         title:"xyz",
         description:"abc",
-        category:'electronics'
+        category:'home'
     },
     {
-        img:'https://m.media-amazon.com/images/I/61YVUOHcrqL._AC_UL480_FMwebp_QL65_.jpg',
+        img:'https://m.media-amazon.com/images/I/71ABl6fmzOL._AC_UL480_FMwebp_QL65_.jpg',
         price:200,
         title:"xyz",
         description:"abc",
-        category:'electronics'
+        category:'home'
     },
     {
-      img:"https://m.media-amazon.com/images/I/61TapeOXotL._AC_UL480_FMwebp_QL65_.jpg",
+      img:"https://m.media-amazon.com/images/I/71ABl6fmzOL._AC_UL480_FMwebp_QL65_.jpg",
       price:200,
       title:"xyz",
       description:"abc",
-      category:'electronics'
+      category:'fashion'
   },
   {
-      img:'https://m.media-amazon.com/images/I/717neFpwtqL._AC_UL480_FMwebp_QL65_.jpg',
+      img:'https://m.media-amazon.com/images/I/5193amnm+wL._AC_UL480_FMwebp_QL65_.jpg',
       price:200,
       title:"xyz",
       description:"abc",
-      category:['notebook','copy','notepad']
+      category:'fashion'
   },
   {
-      img:'Images/doc.png',
+      img:'https://m.media-amazon.com/images/I/5193amnm+wL._AC_UL480_FMwebp_QL65_.jpg',
       price:200,
       title:"xyz",
-      description:"abc"
+      description:"abc",
+      category:'fashion'
   },
   {
-      img:'Images/doc.png',
+      img:'https://m.media-amazon.com/images/I/71Yp+AFHTaL._AC_UL480_FMwebp_QL65_.jpg',
       price:200,
       title:"xyz",
-      description:"abc"
+      description:"Godrej aer O – Hanging Car Air Freshener | Car Accessories | Cool Aqua (7.5g)",
+      category:'accessories'
   },
   {
-    img:"Images/doc.png",
+    img:"https://m.media-amazon.com/images/I/61zkKejr2oL._AC_UL480_FMwebp_QL65_.jpg",
     price:200,
     title:"xyz",
-    description:"abc"
+    description:"Carrogen Hanging Air Freshner Fragrance for Car Interiors, Home, office's with Long Lasting Good Fragrance's Essential Oils Bottle with Wooden Lid 10ml (Rose)",
+    category:'accessories'
+},
+{
+    img:'https://m.media-amazon.com/images/I/7154K6k94pL._AC_UL480_FMwebp_QL65_.jpg',
+    price:200,
+    title:"xyz",
+    description:"STHIRA® PU Leather Multi-Function Car Space Sun Visor Organizer Hanging Phone Storage Pouch Holde (Grey)",
+    category:'accessories'
+},
+{
+    img:'https://m.media-amazon.com/images/I/61aBH+cXL2L._AC_UL480_FMwebp_QL65_.jpg',
+    price:200,
+    title:"xyz",
+    description:"pTron Bullet Pro 36W PD (Type-C) Quick Charger, 3 Port Fast Charging Car Charger Adapter, Compatible with All Smartphones & Tablets (Black)",
+    category:'accessories'
 },
 {
     img:'Images/doc.png',
@@ -66,40 +83,32 @@ const product=[
     description:"abc"
 },
 {
-    img:'Images/doc.png',
-    price:200,
-    title:"xyz",
-    description:"abc"
-},
-{
-    img:'Images/doc.png',
-    price:200,
-    title:"xyz",
-    description:"abc"
-},
-{
-  img:"Images/doc.png",
+  img:"https://m.media-amazon.com/images/I/61pvBBN3ZiL._AC_UL480_FMwebp_QL65_.jpg",
   price:200,
   title:"xyz",
-  description:"abc"
+  description:"abc",
+  category:'electronics'
 },
 {
-  img:'Images/doc.png',
+  img:'https://m.media-amazon.com/images/I/81yobRRV8nL._AC_UL480_FMwebp_QL65_.jpg',
   price:200,
   title:"xyz",
-  description:"abc"
+  description:"electronics",
+  category:'electronics'
 },
 {
-  img:'Images/doc.png',
+  img:'https://m.media-amazon.com/images/I/61fgJs4zIqL._AC_UL480_FMwebp_QL65_.jpg',
   price:200,
   title:"xyz",
-  description:"abc"
+  description:"electronics",
+  category:'electronics'
 },
 {
-  img:'Images/doc.png',
+  img:'https://m.media-amazon.com/images/I/81od9GbumhL._AC_UL480_FMwebp_QL65_.jpg',
   price:200,
   title:"xyz",
-  description:"abc"
+  description:"electronics",
+  category:'electronics'
 }
   ]
 
